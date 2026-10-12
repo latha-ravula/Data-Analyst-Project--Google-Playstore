@@ -1,0 +1,101 @@
+App,Category,Rating,Reviews,Size,Installs,Type,Price,Content_Rating,Genres,Last_Updated,Current_Ver,Android_Ver
+App 1,ENTERTAINMENT,4.9,1395325,39M,"10,000,000+",Free,0.0,Everyone,ENTERTAINMENT,"February 14, 2016",6.1,4.4 and up
+App 2,HEALTH,3.2,2454661,107M,"1,000,000+",Free,0.0,Everyone 10+,HEALTH,"October 14, 2017",5.0,4.4 and up
+App 3,PRODUCTIVITY,2.6,4275162,107M,"10,000,000+",Free,0.0,Teen,PRODUCTIVITY,"April 02, 2022",4.1,8.0 and up
+App 4,GAME,1.0,3625951,117M,"100,000+",Free,0.0,Mature 17+,GAME,"July 22, 2015",5.5,4.1 and up
+App 5,LIFESTYLE,4.7,4563082,104M,"1,000,000+",Paid,15.24,Mature 17+,LIFESTYLE,"October 28, 2022",6.5,5.0 and up
+App 6,EDUCATION,4.1,2962050,142M,"1,000,000+",Free,0.0,Everyone 10+,EDUCATION,"November 06, 2022",2.6,5.0 and up
+App 7,SOCIAL,2.9,4079581,97M,"100,000+",Paid,7.08,Teen,SOCIAL,"April 05, 2016",10.5,6.0 and up
+App 8,TOOLS,4.4,330533,52M,"10,000,000+",Free,0.0,Everyone,TOOLS,"February 13, 2015",9.0,5.0 and up
+App 9,SOCIAL,1.2,769839,37M,"100,000+",Free,0.0,Everyone 10+,SOCIAL,"May 20, 2016",1.7,4.1 and up
+App 10,TOOLS,2.1,4164574,57M,"1,000,000+",Free,0.0,Everyone,TOOLS,"June 12, 2020",2.6,4.4 and up
+App 11,HEALTH,1.0,1891510,95M,"10,000,000+",Paid,13.31,Mature 17+,HEALTH,"October 28, 2019",5.1,7.0 and up
+App 12,LIFESTYLE,3.2,2035030,78M,"10,000,000+",Paid,5.95,Everyone,LIFESTYLE,"May 09, 2018",6.0,4.1 and up
+App 13,PRODUCTIVITY,1.7,2221251,131M,"10,000,000+",Free,0.0,Everyone 10+,PRODUCTIVITY,"December 11, 2015",8.9,Varies with device
+App 14,TOOLS,2.7,3358676,133M,"100,000+",Paid,7.49,Teen,TOOLS,"September 14, 2016",4.6,7.0 and up
+App 15,TOOLS,3.1,2010580,107M,"1,000,000+",Free,0.0,Everyone 10+,TOOLS,"August 05, 2017",6.8,8.0 and up
+App 16,HEALTH,1.3,2521923,65M,"10,000+",Paid,2.46,Teen,HEALTH,"April 20, 2023",1.9,6.0 and up
+App 17,BUSINESS,2.3,754724,30M,"10,000+",Free,0.0,Teen,BUSINESS,"December 09, 2016",10.7,4.4 and up
+App 18,BUSINESS,4.4,652096,135M,"1,000,000+",Paid,2.99,Teen,BUSINESS,"July 07, 2016",10.3,8.0 and up
+App 19,SOCIAL,1.4,1280626,22M,"1,000,000+",Free,0.0,Teen,SOCIAL,"February 21, 2021",4.9,5.0 and up
+App 20,EDUCATION,2.1,257822,91M,"100,000+",Free,0.0,Everyone 10+,EDUCATION,"January 30, 2023",2.3,4.1 and up
+App 21,LIFESTYLE,3.6,602950,20M,"10,000,000+",Paid,2.81,Mature 17+,LIFESTYLE,"February 16, 2015",1.0,4.1 and up
+App 22,EDUCATION,4.6,3685893,99M,"100,000+",Free,0.0,Everyone,EDUCATION,"April 13, 2017",8.3,7.0 and up
+App 23,EDUCATION,2.1,862465,109M,"10,000+",Paid,5.1,Mature 17+,EDUCATION,"December 24, 2016",2.4,4.1 and up
+App 24,FINANCE,1.4,3552742,146M,"10,000+",Free,0.0,Everyone 10+,FINANCE,"January 06, 2015",4.4,8.0 and up
+App 25,TOOLS,4.7,139705,11M,"100,000+",Paid,13.52,Teen,TOOLS,"November 10, 2017",7.3,8.0 and up
+App 26,FINANCE,1.9,1653461,68M,"10,000,000+",Free,0.0,Everyone 10+,FINANCE,"March 04, 2023",3.4,4.1 and up
+App 27,LIFESTYLE,1.1,4606902,138M,"10,000+",Paid,1.62,Everyone 10+,LIFESTYLE,"March 10, 2019",5.1,4.4 and up
+App 28,FINANCE,2.0,2225876,39M,"100,000+",Free,0.0,Teen,FINANCE,"May 03, 2018",7.4,4.4 and up
+App 29,HEALTH,1.8,4101622,12M,"10,000+",Free,0.0,Everyone 10+,HEALTH,"June 18, 2019",6.5,5.0 and up
+App 30,ENTERTAINMENT,3.5,4018861,112M,"1,000+",Paid,19.95,Mature 17+,ENTERTAINMENT,"June 17, 2022",9.0,6.0 and up
+App 31,ENTERTAINMENT,3.8,3667251,101M,"1,000,000+",Paid,2.38,Teen,ENTERTAINMENT,"August 31, 2019",1.5,Varies with device
+App 32,TOOLS,4.9,1390618,90M,"10,000,000+",Free,0.0,Everyone 10+,TOOLS,"July 13, 2015",7.0,8.0 and up
+App 33,SOCIAL,2.6,517385,27M,"1,000,000+",Paid,14.28,Everyone 10+,SOCIAL,"July 17, 2019",3.9,4.1 and up
+App 34,TOOLS,1.9,1127314,38M,"100,000+",Free,0.0,Everyone 10+,TOOLS,"April 07, 2015",7.0,6.0 and up
+App 35,PRODUCTIVITY,3.7,3687174,85M,"100,000+",Paid,17.33,Teen,PRODUCTIVITY,"May 17, 2023",8.6,7.0 and up
+App 36,FINANCE,1.3,2260294,25M,"10,000+",Paid,19.01,Teen,FINANCE,"July 27, 2023",1.3,4.1 and up
+App 37,PRODUCTIVITY,1.6,2339195,68M,"100,000+",Free,0.0,Mature 17+,PRODUCTIVITY,"November 06, 2017",6.0,4.4 and up
+App 38,ENTERTAINMENT,4.2,4566350,48M,"100,000+",Paid,18.55,Mature 17+,ENTERTAINMENT,"August 04, 2018",8.3,7.0 and up
+App 39,PRODUCTIVITY,3.3,2740377,87M,"1,000+",Paid,6.38,Mature 17+,PRODUCTIVITY,"March 26, 2016",7.6,5.0 and up
+App 40,EDUCATION,4.1,2551549,19M,"100,000+",Paid,18.34,Mature 17+,EDUCATION,"February 08, 2019",2.5,8.0 and up
+App 41,ENTERTAINMENT,1.7,2162502,112M,"10,000+",Free,0.0,Teen,ENTERTAINMENT,"August 06, 2023",4.0,4.4 and up
+App 42,PRODUCTIVITY,4.0,3115298,134M,"10,000+",Free,0.0,Everyone,PRODUCTIVITY,"May 02, 2016",4.3,6.0 and up
+App 43,LIFESTYLE,1.5,683535,10M,"1,000+",Free,0.0,Teen,LIFESTYLE,"July 04, 2022",2.2,8.0 and up
+App 44,PRODUCTIVITY,4.7,1287454,37M,"1,000+",Paid,9.4,Everyone,PRODUCTIVITY,"October 03, 2022",8.8,4.1 and up
+App 45,FINANCE,1.2,3521881,122M,"100,000+",Free,0.0,Mature 17+,FINANCE,"September 05, 2020",8.7,Varies with device
+App 46,TOOLS,4.4,2229221,140M,"100,000+",Free,0.0,Teen,TOOLS,"October 05, 2016",9.3,4.1 and up
+App 47,LIFESTYLE,2.2,674010,15M,"1,000+",Paid,4.32,Teen,LIFESTYLE,"October 16, 2020",6.5,4.1 and up
+App 48,EDUCATION,2.5,466103,8M,"10,000+",Free,0.0,Teen,EDUCATION,"August 18, 2016",4.8,6.0 and up
+App 49,BUSINESS,2.6,3081003,18M,"100,000+",Paid,5.62,Everyone,BUSINESS,"February 24, 2020",4.6,8.0 and up
+App 50,HEALTH,4.3,3847650,26M,"1,000,000+",Paid,8.51,Mature 17+,HEALTH,"July 09, 2020",7.7,Varies with device
+App 51,EDUCATION,3.1,1097748,99M,"10,000+",Free,0.0,Mature 17+,EDUCATION,"June 15, 2015",6.7,8.0 and up
+App 52,BUSINESS,2.0,3750470,127M,"10,000,000+",Free,0.0,Mature 17+,BUSINESS,"February 15, 2016",5.6,Varies with device
+App 53,BUSINESS,5.0,4045101,88M,"10,000,000+",Paid,15.92,Everyone,BUSINESS,"April 27, 2023",10.3,4.4 and up
+App 54,TOOLS,2.5,1499395,13M,"10,000+",Paid,1.59,Everyone,TOOLS,"April 13, 2022",4.1,Varies with device
+App 55,HEALTH,2.4,113241,75M,"100,000+",Paid,13.98,Everyone,HEALTH,"June 05, 2023",6.9,4.4 and up
+App 56,TOOLS,4.0,4053852,78M,"10,000,000+",Paid,18.4,Everyone 10+,TOOLS,"April 01, 2018",1.7,4.4 and up
+App 57,SOCIAL,3.0,4980692,23M,"10,000,000+",Free,0.0,Teen,SOCIAL,"January 04, 2020",4.8,5.0 and up
+App 58,LIFESTYLE,3.0,1158402,132M,"100,000+",Paid,9.07,Mature 17+,LIFESTYLE,"July 11, 2021",1.1,7.0 and up
+App 59,ENTERTAINMENT,2.1,586642,87M,"10,000+",Paid,19.47,Everyone 10+,ENTERTAINMENT,"November 07, 2016",2.1,5.0 and up
+App 60,SOCIAL,1.6,101446,97M,"1,000,000+",Free,0.0,Everyone 10+,SOCIAL,"October 03, 2019",1.2,4.4 and up
+App 61,EDUCATION,2.4,3449125,150M,"10,000,000+",Paid,8.98,Teen,EDUCATION,"April 04, 2021",5.3,7.0 and up
+App 62,HEALTH,1.4,4827356,94M,"1,000,000+",Free,0.0,Everyone,HEALTH,"March 20, 2019",7.9,4.1 and up
+App 63,FINANCE,4.3,3357388,69M,"1,000+",Paid,15.59,Everyone,FINANCE,"November 04, 2017",10.9,6.0 and up
+App 64,TOOLS,4.3,3885690,135M,"100,000+",Paid,10.49,Mature 17+,TOOLS,"September 15, 2021",5.7,6.0 and up
+App 65,FINANCE,2.3,337553,81M,"100,000+",Paid,17.76,Mature 17+,FINANCE,"November 04, 2018",8.3,4.1 and up
+App 66,EDUCATION,3.1,1321710,47M,"10,000+",Free,0.0,Mature 17+,EDUCATION,"January 03, 2019",5.0,Varies with device
+App 67,GAME,4.2,4053593,75M,"1,000,000+",Paid,11.93,Teen,GAME,"April 09, 2016",6.9,5.0 and up
+App 68,PRODUCTIVITY,1.2,2727114,113M,"1,000+",Free,0.0,Mature 17+,PRODUCTIVITY,"February 03, 2019",1.8,4.1 and up
+App 69,SOCIAL,2.0,424639,93M,"10,000+",Paid,4.14,Everyone,SOCIAL,"August 15, 2023",2.5,8.0 and up
+App 70,LIFESTYLE,2.4,1729698,111M,"100,000+",Free,0.0,Teen,LIFESTYLE,"February 28, 2023",9.8,7.0 and up
+App 71,TOOLS,1.1,2227299,119M,"1,000,000+",Paid,15.53,Mature 17+,TOOLS,"March 19, 2018",9.0,7.0 and up
+App 72,FINANCE,3.4,2058273,69M,"100,000+",Paid,4.05,Everyone,FINANCE,"April 21, 2019",5.6,4.4 and up
+App 73,TOOLS,1.4,257390,30M,"100,000+",Paid,8.27,Mature 17+,TOOLS,"November 03, 2020",9.0,Varies with device
+App 74,SOCIAL,1.6,1751949,90M,"1,000,000+",Free,0.0,Everyone 10+,SOCIAL,"November 18, 2017",7.0,5.0 and up
+App 75,BUSINESS,3.4,2072195,82M,"1,000,000+",Paid,3.63,Teen,BUSINESS,"August 29, 2015",2.5,8.0 and up
+App 76,PRODUCTIVITY,1.8,2893254,135M,"10,000+",Free,0.0,Mature 17+,PRODUCTIVITY,"March 25, 2017",5.5,6.0 and up
+App 77,FINANCE,1.8,2186380,5M,"1,000,000+",Paid,3.38,Teen,FINANCE,"November 17, 2015",4.2,Varies with device
+App 78,GAME,4.5,4867272,20M,"1,000+",Free,0.0,Everyone 10+,GAME,"May 27, 2016",3.4,4.1 and up
+App 79,SOCIAL,1.8,3483605,54M,"1,000,000+",Free,0.0,Everyone,SOCIAL,"March 07, 2021",2.5,7.0 and up
+App 80,HEALTH,4.5,2985091,92M,"10,000,000+",Paid,12.04,Everyone,HEALTH,"November 28, 2015",2.3,4.1 and up
+App 81,GAME,5.0,1099681,54M,"1,000,000+",Free,0.0,Mature 17+,GAME,"December 27, 2018",4.6,8.0 and up
+App 82,LIFESTYLE,1.6,2176765,139M,"1,000+",Paid,7.94,Everyone,LIFESTYLE,"December 16, 2020",6.6,4.4 and up
+App 83,TOOLS,2.9,1115226,44M,"1,000,000+",Free,0.0,Teen,TOOLS,"October 13, 2015",1.5,4.4 and up
+App 84,SOCIAL,2.8,3345625,83M,"10,000,000+",Free,0.0,Everyone 10+,SOCIAL,"October 01, 2018",1.7,4.1 and up
+App 85,BUSINESS,2.6,4107668,100M,"100,000+",Paid,14.54,Mature 17+,BUSINESS,"July 10, 2018",1.3,7.0 and up
+App 86,HEALTH,1.5,2242403,66M,"1,000+",Free,0.0,Everyone 10+,HEALTH,"January 14, 2022",4.8,4.4 and up
+App 87,HEALTH,1.6,382618,124M,"100,000+",Free,0.0,Mature 17+,HEALTH,"November 07, 2022",6.1,7.0 and up
+App 88,SOCIAL,3.1,2266174,86M,"100,000+",Paid,16.61,Everyone,SOCIAL,"November 04, 2018",5.5,7.0 and up
+App 89,TOOLS,2.6,1039845,143M,"1,000,000+",Paid,7.7,Everyone 10+,TOOLS,"October 23, 2023",2.2,7.0 and up
+App 90,HEALTH,2.3,785558,79M,"100,000+",Paid,17.77,Everyone 10+,HEALTH,"May 27, 2020",1.1,7.0 and up
+App 91,TOOLS,3.3,824846,51M,"1,000+",Free,0.0,Everyone,TOOLS,"October 12, 2015",1.3,7.0 and up
+App 92,GAME,2.7,4395799,61M,"1,000,000+",Paid,19.05,Mature 17+,GAME,"June 18, 2015",7.0,4.4 and up
+App 93,LIFESTYLE,1.7,847382,85M,"1,000,000+",Paid,10.42,Everyone 10+,LIFESTYLE,"May 11, 2021",2.5,7.0 and up
+App 94,SOCIAL,3.0,2150520,86M,"100,000+",Paid,2.6,Mature 17+,SOCIAL,"July 07, 2015",2.9,5.0 and up
+App 95,GAME,2.1,4554102,76M,"100,000+",Free,0.0,Everyone,GAME,"July 27, 2017",6.8,6.0 and up
+App 96,HEALTH,1.2,1505619,136M,"1,000,000+",Paid,18.15,Everyone,HEALTH,"March 15, 2023",4.7,4.1 and up
+App 97,SOCIAL,1.5,2858296,132M,"10,000,000+",Paid,2.22,Everyone,SOCIAL,"January 20, 2021",6.1,5.0 and up
+App 98,BUSINESS,4.6,1320555,51M,"10,000+",Free,0.0,Everyone,BUSINESS,"October 21, 2015",7.1,6.0 and up
+App 99,EDUCATION,2.8,4680581,49M,"10,000,000+",Free,0.0,Teen,EDUCATION,"September 05, 2022",7.6,7.0 and up
+App 100,LIFESTYLE,1.8,1669020,37M,"10,000+",Free,0.0,Teen,LIFESTYLE,"July 22, 2017",9.4,5.0 and up
